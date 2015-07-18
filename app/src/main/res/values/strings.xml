@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TravelDiary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newest">最新文章</string>
+    <string name="hotnews">人氣文章</string>
+    <string name="lazyroute">懶人包</string>
+    <string name="dateplace">約會好去處</string>
+    <string name="settings">Settings</string>
+    <string name="fab">It shows by Floating Action Button</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="schedule">行程規劃</string>
+
+    <!-- Geocoder Example -->
+    <string name="google_maps_key">AIzaSyAL9PWdWmg3coir43W6v90lXcixFj2i_LU</string>
+    <string name="msg_MapNotReady">Map not ready</string>
+    <string name="hint_etLocationName">Location name</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="msg_LocationNameNotFound">Location name not found</string>
+    <string name="msg_LocationNameIsEmpty">Location name is empty</string>
+
+    <!-- LazyRoute -->
+    <string name="LazyRouteTownship">大村田尾花園經典1日慢遊</string>
+    <string name="lazyRouteTownship_1">大村進昌咖啡烘焙館</string>
+    <string name="lazyRouteTownship_2">菁芳園休閒農場</string>
+    <string name="lazyRouteTownship_3">石頭魚鐵道庭園咖啡</string>
+
+    <string name="LazyRouteYilan1D">宜蘭隨意走走1日遊</string>
+    <string name="LazyRouteCingjing">超優的清境避暑之旅</string>
+
+
+    <string name="text_btnDatePlace">約會好去處</string>
+
+
+
+</resources>

@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_lastest"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/newest"/>
+
+        <item
+            android:id="@+id/drawer_hotnews"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/hotnews"/>
+
+        <item
+            android:id="@+id/drawer_lazyroute"
+            android:icon="@drawable/ic_file_download_black_24dp"
+            android:title="@string/lazyroute"/>
+
+        <item
+            android:id="@+id/drawer_dateplace"
+            android:icon="@drawable/ic_more_horiz_black_24dp"
+            android:title="@string/dateplace"/>
+
+        <item
+            android:id="@+id/drawer_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/settings"/>
+
+    </group>
+</menu>
